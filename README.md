@@ -1,6 +1,7 @@
 # 🎯 Arrow Escape Game
 
 ### *A Thrilling Arcade Game Where Speed Meets Strategy*
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/6226ebd7-2bda-4ab9-90c2-02dd618f2459" />
 
 [![GitHub Pages](https://img.shields.io/badge/Play-Live-00b4d8?style=for-the-badge&logo=githubpages&logoColor=white)](https://hamdan-saddique-ai.github.io/Arrow-Escape-Game)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
